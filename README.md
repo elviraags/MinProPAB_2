@@ -1,6 +1,16 @@
 # apaaja
 
 
-![mage alt](https://github.com/elviraags/MinProPAB_2/blob/c82cb54ad911d72cba40d2bab7c75fd681e85ffc/Cuplikan%20layar%202026-03-14%20230419.png)
+![image alt](https://github.com/elviraags/MinProPAB_2/blob/cc17aebe4275bfe2de41c892ebac93228386a318/Cuplikan%20layar%202026-03-15%20131647.png)
 
-
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
